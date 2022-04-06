@@ -1,4 +1,4 @@
-### <h1>Olá pessoal!</h1>
+### <h1>Olá pessoal, meu nome é Renan Lembo, estudande de técnologia!😄😃</h1>
 - 📖 Estudando sobre <i>desenvolvimento WEB</i> e programação <i>PYTHON</i>.
 - ⚡ <i>Oque não te desafia, não te transforma.</i>
 <div align="center">
